@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <img alt="Homepage de uma empresa de segurança da informação" src="" width="100%">
+  <img alt="Homepage de uma empresa de segurança da informação" src="./images/home.png" width="100%">
 </p>
 
 
@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Projeto desenvolvido na Trilha Explorer da Rocketseat. Nesse desafio, foi recriado uma aplicação, a partir de um layout fornecido.
 
-- [Acesse o projeto finalizado, online]()
+- [Acesse o projeto finalizado, online](https://fernandoalvesrufino.github.io/homepage-seguranca-ti/)
 
  
 ## :memo: Licença
